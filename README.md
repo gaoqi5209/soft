@@ -1,21 +1,21 @@
 # soft
 常用软件
 
-笔记：Evernote
+笔记：Evernote（印象笔记国际版）
 
-密码：LastPass
+密码：1password(付费版)
 
-翻墙：Shadowsocks，Surge，Quantumult
+翻墙：Shadowsocks，Potatso Lite，Quantumult
 
 抓包：Thor，Fiddler
 
-网盘：Dropbox，OneDrive，坚果云
+网盘：Dropbox
 
-照片：iCloud，Google Photos，OneDrive
+照片：Google Photos
 
-IM 聊天：QQ，TIM，微信，Telegram，Slack
+IM 聊天：QQ，TIM，微信，Telegram，WhatsApp
 
-输入法：落格输入法，搜狗输入法
+输入法：谷歌输入法，搜狗输入法
 
 思维导图：XMind，Lighten，MindNode，幕布
 
